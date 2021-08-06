@@ -1,6 +1,6 @@
 .lmaoded {
   padding-top: 16rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   font-family: "Open Sans", sans-serif;
   font-size: 4rem;
   align-items: center;
@@ -11,7 +11,7 @@
 .sexy {
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
-  font-size: 3rem;
+  font-size: 2rem;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -34,7 +34,7 @@
 }
 
 .chad {
-  font-size: 4rem;
+  font-size: 3rem;
   font-family: "Source Sans Pro", sans-serif;
 }
 
