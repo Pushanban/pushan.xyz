@@ -1,0 +1,46 @@
+.lmaoded {
+  padding-top: 16rem;
+  padding-bottom: 2rem;
+  font-family: "Open Sans", sans-serif;
+  font-size: 4rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.sexy {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.sexy a {
+  text-decoration: none;
+  color: #6699ee;
+}
+.sexy a:hover {
+  text-decoration: none;
+  color: black;
+  transition: 0.9s;
+}
+.sexy a:focus {
+  text-decoration: none;
+}
+.sexy a:active {
+  text-decoration: none;
+}
+
+.chad {
+  font-size: 4rem;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+@media only screen and (max-width: 450px) {
+  .lmaoded {
+    padding-top: 30rem;
+    font-size: 15rem;
+  }
+}
